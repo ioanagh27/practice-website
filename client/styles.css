@@ -1,0 +1,33 @@
+body {
+    margin: 4%;
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 40px;
+}
+
+img {
+    width: 700px;
+    height: 450px;
+}
+
+.carousel {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+h1 {
+    font-family: 'The Nautigal', cursive;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+main {
+    font-family: 'The Nautigal', cursive;
+}
+
+h2 {
+    margin: 30px;
+}
